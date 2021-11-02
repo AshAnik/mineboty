@@ -1,7 +1,7 @@
 { 
- "ip":"your_ip_here",
- "port": "your_server_port_here",
- "name": "sub",
+ "ip":"WhatIfAnik.aternos.me",
+ "port": "35552",
+ "name": "Fizz",
  "auto-night-skip":"false", 
- "version": "your_server_version"
+ "version": "1.17.1"
  }
